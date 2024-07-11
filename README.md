@@ -5,10 +5,15 @@
 <h3 align="center">A Passionate Software Developer</h3>
 <br />
 <div align="center">
+  
   🛠️  I am Currently Working on **TechFameCamair**
+  
   🌱  I am Currently Learning **UI UX Designs**
+  
   💬 Ask me about **React, Next, Node, Express, Postgress... or anyting [here!](https://github.com/EwiJosepha)**
+  
   ⚡ Fun facts **Football, Nature**
+  
 </div>
 
 <!--
