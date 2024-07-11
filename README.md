@@ -1,4 +1,7 @@
 <img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EwiJosepha-EwiJosepha" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=10&duration=4000&lines=Hey+There!+I+am+Josey+😄;" />
+</h1>
 
 <!--
 **EwiJosepha/EwiJosepha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
