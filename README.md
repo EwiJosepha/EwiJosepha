@@ -12,8 +12,7 @@
   
   💬 Ask me about **React, Next, Node, Express, Postgress... or anyting [here!](https://github.com/EwiJosepha)**
   
-  ⚡ Fun facts **Football, Nature**
-  
+  ⚡ Fun facts **Football, Nature**  
 </div>
 
 <div align="center"> 
